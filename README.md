@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
