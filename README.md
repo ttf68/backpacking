@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
