@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Tracker: clean up GMC (#8003)
