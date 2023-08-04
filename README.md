@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update H1 in Explorer API docs (#7813)
