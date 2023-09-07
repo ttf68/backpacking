@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
