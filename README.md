@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
