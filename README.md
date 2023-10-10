@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix TypeError in check_cfg() (#9245)
