@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update HTTP to HTTPS (#7548)
