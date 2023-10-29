@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
