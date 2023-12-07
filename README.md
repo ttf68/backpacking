@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add visuals in guides/distance-calculation.md (#7876)
