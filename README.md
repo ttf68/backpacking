@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
