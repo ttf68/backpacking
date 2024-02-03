@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
