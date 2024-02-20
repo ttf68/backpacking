@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
