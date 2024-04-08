@@ -1,1 +1,1 @@
-Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
