@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
