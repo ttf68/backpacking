@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Compress docs images (#8124)
