@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
