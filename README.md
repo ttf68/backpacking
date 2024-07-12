@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
