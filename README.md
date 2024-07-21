@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
