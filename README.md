@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
