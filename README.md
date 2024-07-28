@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
