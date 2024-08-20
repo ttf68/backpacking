@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
