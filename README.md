@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
