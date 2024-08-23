@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
