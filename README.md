@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add dota8.yaml and O tests (#7394)
