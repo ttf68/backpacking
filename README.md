@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Update fraction arg to employ a random selection (#8234)
