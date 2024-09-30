@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
