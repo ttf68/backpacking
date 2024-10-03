@@ -1,1 +1,1 @@
-update requirements.txt
+Fix PNNX ubuntu -> linux bug (#7050)
