@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
