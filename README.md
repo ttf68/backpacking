@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
